@@ -91,3 +91,20 @@
   <a href="https://testing-library.com/" target="_blank" rel="noreferrer"> <img src="https://testing-library.com/img/octopus-64x64.png" alt="firebase" width="40" height="40"/>
   </a> 
 </p>
+
+<h4 align="center">Herramientas:</h4>
+<p align="center"> 
+  <a href="https://www.atlassian.com/es/software/jira" target="_blank" rel="noreferrer"> <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/atlassian_jira_logo_icon_170511.png" alt="firebase" width="40" height="40"/>
+  </a> 
+</p>
+
+<h4 align="center">QA:</h4>
+<p align="center"> 
+  <a href="https://www.tecnologias-informacion.com/testingmanual.html" target="_blank" rel="noreferrer"> <img src="https://w7.pngwing.com/pngs/683/965/png-transparent-software-testing-functional-testing-computer-software-manual-testing-software-engineering-software-test-hand-quality-assurance-systems-development-life-cycle-thumbnail.png" alt="firebase" width="40" height="40"/>
+  </a> 
+  <a href="https://qalified.com/es/blog/pruebas-regresion/" target="_blank" rel="noreferrer"> <img src="https://qalified.com/wp-content/uploads/2023/02/Regression-Testing-.png" alt="firebase" width="60" height="40"/>
+  </a> 
+  </a> 
+  <a href="https://www.atlassian.com/es/agile/project-management/user-stories" target="_blank" rel="noreferrer"> <img src="https://miro.medium.com/v2/resize:fit:2732/1*OXgRHuX1LBXOcWEUL8-oUQ.png" alt="firebase" width="80" height="40"/>
+  </a> 
+</p>
