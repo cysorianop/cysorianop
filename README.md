@@ -1,4 +1,8 @@
-<h1 align="center">Hello 👋, I'm Cesar Soriano, Semi-senior Frontend Developer</h1>
+<h1 align="center">Hello 👋, I'm Cesar Soriano</h1>
+
+<h1 align="center">Frontend Developer | Vue.js · Quasar · React · TypeScript · Angular · Unit test · Responsive desing</h1>
+
+<h2 align="center">Bogotá, Colombia · Remoto LATAM/Global  </h2>
 
 <p target="_blank" align="center">
   <img align="center" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
@@ -10,7 +14,15 @@
   </ul>
 </div>
 
-<h3 align="center">💻 Soy un desarrollador Front-end con más de dos años de experiencia, enfocado en la creación y optimización de interfaces de usuario para aplicaciones web y móviles. Soy una persona curiosa, autodidacta, responsable y con capacidad de liderazgo. ✨</h3>
+<h3 align="center">Soy Desarrollador Frontend con +2 años construyendo aplicaciones web con Vue.js, Quasar y React (TypeScript). Me enfoco en interfaces rápidas, accesibles y responsivas, buenas prácticas (componentización, estado, testing) y DX.
+
+Lo que mejor hago:
+• Migrar y modernizar frontends (Vue/React/Quasar)
+• Integrar APIs REST, manejo de estado, routing y auth (JWT/Firebase)
+• Diseñar UI/UX con Tailwind/SCSS y patrones reutilizables
+
+Tech: Vue.js, Quasar, React, TypeScript, JavaScript, Next.js, HTML, CSS/Tailwind/SCSS, MySQL, PostgreSQL, Git/GitHub, Jest/Vitest, Node/Spring Boot (básico), Python.</h3>
+
 
 - ⭐ En constante búsqueda de la excelencia en el desarrollo backend y perfeccionando mis habilidades en el frontend.
 - 🖊️ Estudiante de Ingeniería en Telemática en la [Universidad Distrital Francisco Jose de Caldas](https://www.udistrital.edu.co/inicio)
@@ -37,8 +49,22 @@
 
 <!--icons and links-->
 <p align="center">
-<a href="https://www.linkedin.com/in/cesar-yecid-soriano-pinzon-35b9a5194/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50" /></a>
+<a href="https://https://www.linkedin.com/in/cesar-soriano-frontend/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50" /></a>
 <a href="mailto:cysp97@gmail.com" target="blank"><img align="center" src="https://images.vexels.com/media/users/3/140131/isolated/preview/cc86a9f4ca65a140b2edadf3f87f2c17-diseno-de-icono-de-circulo-de-correo-electronico.png" height="50" width="50" /></a>   
+</p>
+
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h2 style="display: inline-block">📊 Stats</h2></summary>
+  </ul>
+</div>
+
+<p align="center">
+<a target="blank"><img align="center" src="https://github-readme-stats.vercel.app/api?username=cysorianop&show_icons=true&theme=tokyonight" alt="github-stats" height="600" width="600" /></a> 
+</p>
+
+<p align="center">
+<a target="blank"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cysorianop&layout=compact&theme=tokyonight" alt="top-lenguage" height="600" width="600" /></a> 
 </p>
 
 <div id="user-content-toc">
